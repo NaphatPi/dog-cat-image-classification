@@ -1,4 +1,4 @@
-# dog_cat_image_classification
+# Dog & Cat image classification
 Repository for a solution to the Kaggle's Dogs vs. Cats Redux: Kernels Edition using CNN transfer learning (VGG)
 
 ## Overview
