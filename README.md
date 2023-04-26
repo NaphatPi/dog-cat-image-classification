@@ -1,5 +1,5 @@
 # Dog & Cat image classification
-Repository for a solution to the Kaggle's Dogs vs. Cats Redux: Kernels Edition using CNN transfer learning (VGG)
+Repository for a solution to the Kaggle's Dogs vs. Cats Redux: Kernels Edition using CNN transfer learning (VGG) in Python (Tensorflow - Keras)
 
 ## Overview
 For this classic Kaggle competition, the task is to classify the images of dogs and cats.
